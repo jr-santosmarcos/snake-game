@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(20, 20, 20);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgreen;
+}
